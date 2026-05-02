@@ -12,11 +12,11 @@ Key Highlights
 
 Project Structure
 
-```text id="a1b2c3"
+```text
 ANPR-YOLOv8-OCR/
 │
 ├── test/
-│   └── input.jpg
+│   └── input.png
 │
 ├── results/
 │   └── result.png
@@ -40,21 +40,21 @@ Methodology
 
 Sample
 
-Input  
+Input
 ![Input](./test/input.png)
 
-Detection Output  
-![Result](./results/result.jpg)
+Detection Output
+![Result](./results/result.png)
 
 OCR Output (Terminal)
 
-```bash id="d4e5f6"
+```bash
 MH04D02004
 ```
 
 Installation
 
-```bash id="g7h8i9"
+```bash
 git clone https://github.com/rajsah981852/ANPR-YOLOv8-OCR.git
 cd ANPR-YOLOv8-OCR
 pip install -r requirements.txt
@@ -62,7 +62,7 @@ pip install -r requirements.txt
 
 Usage
 
-```bash id="j1k2l3"
+```bash
 python test.py
 ```
 
