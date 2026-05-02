@@ -41,7 +41,7 @@ Methodology
 Sample
 
 Input
-![Input](./test/input.png)
+![Input](./test/test.png)
 
 Detection Output
 ![Result](./results/result.png)
