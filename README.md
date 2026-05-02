@@ -40,11 +40,11 @@ Methodology
 
 Sample
 
-Input
-![Input](test/input.jpg)
+Input  
+![Input](./test/input.png)
 
-Detection Output
-![Result](results/result.png)
+Detection Output  
+![Result](./results/result.jpg)
 
 OCR Output (Terminal)
 
