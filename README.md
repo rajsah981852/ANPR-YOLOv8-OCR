@@ -5,7 +5,7 @@ A lightweight Automatic Number Plate Recognition (ANPR) pipeline that detects ve
 
 Key Highlights
 
-* End-to-end pipeline: Detection → Cropping → OCR
+* End-to-end pipeline: Detection → Cropping → OCR.
 * YOLOv8-based license plate localization
 * OCR inference with terminal output
 * Minimal, reproducible setup with sample input/output
