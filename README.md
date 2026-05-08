@@ -8,7 +8,7 @@ Key Highlights
 * End-to-end pipeline: Detection → Cropping → OCR.
 * YOLOv8-based license plate localization.
 * OCR inference with terminal output.
-* Minimal, reproducible setup with sample input/output
+* Minimal, reproducible setup with sample input/output.
 
 Project Structure
 
